@@ -4,11 +4,11 @@ with open('README.md') as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="FAWrapper-huantian",
+    name="FAsWrapper",
     version="0.1.0",
     author="David Li",
     author_email="davidtianli@gmail.com",
-    description="A python wrapper for faexport",
+    description="A python wrapper for faexport FurAffinity scraper.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/huantianad/FAWrapper",
