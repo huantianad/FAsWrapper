@@ -1,2 +1,4 @@
 # FAsWrapper
-Python wrapper for github.com/Deer-Spangle/faexport
+Python wrapper for https://github.com/Deer-Spangle/faexport
+
+Currently still in development.
